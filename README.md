@@ -1,9 +1,6 @@
 # Hello there 👋
 ___
 
-<!--
-**axelgueudin/axelgueudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 I'm axel, a french designer experimenting & trying to learn new cool stuff.
 Currently, I spend my time learning, to be a better UI Artist to get a job, in the video game industry 🎮
 
