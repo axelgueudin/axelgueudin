@@ -2,7 +2,7 @@
 ___
 
 I'm axel, a french designer experimenting & trying to learn new cool stuff.
-Currently, I spend my time learning, to be a better UI Artist to get a job, in the video game industry 🎮
+Currently, I spend my time learning, to be a better UI Artist 🎮
 
 
 🔭 I’m currently working on my serious game,  [Biotica](https://axelgueudin.github.io/biotica "Biotica website") & on others projects (Project Gaia, a video game UI concept / illustrations / Beer packaging ...) 
